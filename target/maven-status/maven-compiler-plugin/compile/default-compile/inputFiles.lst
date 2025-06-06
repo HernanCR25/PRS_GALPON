@@ -1,4 +1,5 @@
 /workspaces/PRS_GALPON/src/main/java/pe/edu/vallegrande/HenApplication.java
+/workspaces/PRS_GALPON/src/main/java/pe/edu/vallegrande/config/CorsConfig.java
 /workspaces/PRS_GALPON/src/main/java/pe/edu/vallegrande/config/SecurityConfig.java
 /workspaces/PRS_GALPON/src/main/java/pe/edu/vallegrande/dto/ShedDTO.java
 /workspaces/PRS_GALPON/src/main/java/pe/edu/vallegrande/model/HenModel.java
